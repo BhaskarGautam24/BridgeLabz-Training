@@ -3,14 +3,14 @@ import java.util.*;
 public class SimpleInterest {
     public static void main(String[] args){
       Scanner scn = new Scanner(System.in);
-        double p = scn.nextDouble();
+        double principal = scn.nextDouble();
         
-        double r = scn.nextDouble();
-        double t = scn.nextDouble();
+        double rate = scn.nextDouble();
+        double time = scn.nextDouble();
   
-          double si = (p * r * t) / 100;
+          double simpleinterest = (principal * rate * time) / 100;
   
-          System.out.println(si);
+          System.out.println(simpleinterest);
 
     }
   
