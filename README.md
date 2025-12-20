@@ -6,13 +6,19 @@ project structure, and basic program execution flow.
 
 • 17-Dec-2025 (Wednesday):
 Solved basic Java practice problems focusing on syntax, data types, input/output operations, and simple logic building.
+🔗 **Programming Elements Practice**: 
+    https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 
 • 18-Dec-2025 (Thursday):
 Continued with Java documentation.Practiced and completed Level 1 and Level 2 Elements problems, and submitted all solutions on the same day.
+🔗 **Level 1 & Level 2 Elements Solutions**:  
+    https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 
-• 19-Dec-2025 (Friday):
+• 19-Dec-2025 (Friday): 
 Studied Java Control Flow statements (if-else, switch, loops).
 Started solving Level 1, Level 2, and Level 3 practice problems based on control flows.
+🔗 **Completed Control Flow Solutions**:  
+  https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flows
 
 • 20-Dec-2025 (Saturday):
 Completed and submitted all Control Flow practice problems.
