@@ -17,14 +17,15 @@ All current implementations, practice problems, and submissions are maintained i
 🚀 Completed setup of **Java Development Kit (JDK)** and **IDE**.  
 Gained understanding of the Java ecosystem, project structure, and program execution lifecycle.
 
-🔗 **Setup & Configuration:**  JDK & IDE Setup
+🔗 **Setup & Configuration:**  [click-here](https://www.oracle.com/in/java/technologies/downloads/)
 
 ---
 
 ### 📍 17/12/2025 (Wednesday)
 📝 Practiced introductory Java programs focusing on Java syntax, data types, input/output operations, and basic logic building.
 
-🔗 **Programming Elements Practice:**  Java Basics
+🔗 **Programming Elements Practice:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
 
 ---
 
@@ -32,7 +33,8 @@ Gained understanding of the Java ecosystem, project structure, and program execu
 📚 Completed and submitted **Level 1 & Level 2 Programming Elements** problems.  
 Focused on Java documentation usage, problem-solving approach, and clean, structured code.
 
-🔗 **Level 1 & 2 Solutions:**  Elements Problems
+🔗 **Level 1 & 2 Solutions:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
 
 ---
 
@@ -40,7 +42,7 @@ Focused on Java documentation usage, problem-solving approach, and clean, struct
 ⚡ Studied Java **Control Flow statements**, including if–else, switch-case, and looping constructs.  
 Started solving **Level 1, Level 2, and Level 3** control flow problems.
 
-🔗 **Control Flow Practice:**  Control Flow Solutions
+🔗 **Control Flow Practice:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
@@ -48,9 +50,9 @@ Started solving **Level 1, Level 2, and Level 3** control flow problems.
 🧠 Solved **scenario-based Core Java problems** applying real-world logic.  
 Also studied **Arrays** and practiced array-based problem solving.
 
-🔗 **Scenario-Based Problems:**  Scenario Practice  
+🔗 **Scenario-Based Problems:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)  
 
-🔗 **Array Practice:**  Arrays
+🔗 **Array Practice:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 ---
 ## 📅 Week 2:
@@ -59,16 +61,16 @@ Also studied **Arrays** and practiced array-based problem solving.
 🔍 Deep dive into **Methods and Strings**.  
 Practiced modular programming, method reuse, and string manipulation concepts.
 
-🔗 **Methods Practice:**  Methods Problems  
+🔗 **Methods Practice:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)  
 
-🔗 **Strings Practice:**  String Problems
+🔗 **Strings Practice:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 ---
 
 ### 📍 23/12/2025 (Tuesday)
 ✨ Solved advanced string problems and explored **built-in Java functions** for optimized coding and better readability.
 
-🔗 **Extras & Built-in Functions:**  Extra Practice
+🔗 **Extras & Built-in Functions:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
 
 ---
 
