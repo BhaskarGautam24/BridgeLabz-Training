@@ -1,28 +1,94 @@
-Week 1: Getting Started with Java Fundamentals
+# 💻 BridgeLabz – Core Java Training
 
-• 16-Dec-2025 (Tuesday):
-Installed and set up the Java Development Kit (JDK) and Integrated Development Environment (IDE).Understood the Java ecosystem,
-project structure, and basic program execution flow.
+This repository captures my **Core Java learning journey** as part of the **BridgeLabz – Capgemini Training Program**.  
+All work is organized **chronologically (day-wise)** to clearly reflect progress, concepts learned, and hands-on practice.
 
-• 17-Dec-2025 (Wednesday):
-Solved basic Java practice problems focusing on syntax, data types, input/output operations, and simple logic building.
+---
 
-🔗 **Programming Elements Practice**: 
-    https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
+## 🌿 Active Branch: `core-java-practice`
 
-• 18-Dec-2025 (Thursday):
-Continued with Java documentation.Practiced and completed Level 1 and Level 2 Elements problems, and submitted all solutions on the same day.
+All current implementations, practice problems, and submissions are maintained in this branch.
 
-🔗 **Level 1 & Level 2 Elements Solutions**:  
-    https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
+---
 
-• 19-Dec-2025 (Friday): 
-Studied Java Control Flow statements (if-else, switch, loops).
-Started solving Level 1, Level 2, and Level 3 practice problems based on control flows.
+## 📅 Week 1: Java Fundamentals Kickoff
+---
+### 📍 16/12/2025 (Tuesday)
+🚀 Completed setup of **Java Development Kit (JDK)** and **IDE**.  
+Gained understanding of the Java ecosystem, project structure, and program execution lifecycle.
 
-🔗 **Completed Control Flow Solutions**:  
-  https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flows
+🔗 **Setup & Configuration:**  JDK & IDE Setup
 
-• 20-Dec-2025 (Saturday):
-Completed and submitted all Control Flow practice problems.
-Solved and submitted two scenario-based questions covering concepts learned throughout the week.
+---
+
+### 📍 17/12/2025 (Wednesday)
+📝 Practiced introductory Java programs focusing on Java syntax, data types, input/output operations, and basic logic building.
+
+🔗 **Programming Elements Practice:**  Java Basics
+
+---
+
+### 📍 18/12/2025 (Thursday)
+📚 Completed and submitted **Level 1 & Level 2 Programming Elements** problems.  
+Focused on Java documentation usage, problem-solving approach, and clean, structured code.
+
+🔗 **Level 1 & 2 Solutions:**  Elements Problems
+
+---
+
+### 📍 19/12/2025 (Friday)
+⚡ Studied Java **Control Flow statements**, including if–else, switch-case, and looping constructs.  
+Started solving **Level 1, Level 2, and Level 3** control flow problems.
+
+🔗 **Control Flow Practice:**  Control Flow Solutions
+
+---
+
+### 📍 20/12/2025 (Saturday)
+🧠 Solved **scenario-based Core Java problems** applying real-world logic.  
+Also studied **Arrays** and practiced array-based problem solving.
+
+🔗 **Scenario-Based Problems:**  Scenario Practice  
+
+🔗 **Array Practice:**  Arrays
+
+---
+## 📅 Week 2:
+---
+### 📍 22/12/2025 (Monday)
+🔍 Deep dive into **Methods and Strings**.  
+Practiced modular programming, method reuse, and string manipulation concepts.
+
+🔗 **Methods Practice:**  Methods Problems  
+
+🔗 **Strings Practice:**  String Problems
+
+---
+
+### 📍 23/12/2025 (Tuesday)
+✨ Solved advanced string problems and explored **built-in Java functions** for optimized coding and better readability.
+
+🔗 **Extras & Built-in Functions:**  Extra Practice
+
+---
+
+## 🗂️ Repository Structure
+
+```mermaid
+graph TD
+    A["BridgeLabz-Training
+(core-java-practice branch)"] --> B[core-java-practice]
+
+    B --> C[gcr-codebase]
+
+    C --> D[programming-elements]
+    C --> E[control-flow]
+    C --> F[arrays]
+    C --> G[methods]
+    C --> H[strings]
+    C --> I[extras]
+
+    B --> K[scenario-based]
+    B --> L[leet-code-codebase]
+
+
