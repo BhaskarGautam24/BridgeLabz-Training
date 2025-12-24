@@ -1,6 +1,6 @@
 # 💻 BridgeLabz – Core Java Training
 
-This repository captures my **Core Java learning journey** as part of the **BridgeLabz – Capgemini Training Program**.  
+This repository captures my **Core Java learning journey** as part of the **BridgeLabz – Training Program**.  
 All work is organized **chronologically (day-wise)** to clearly reflect progress, concepts learned, and hands-on practice.
 
 ---
