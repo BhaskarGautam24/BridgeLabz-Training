@@ -94,3 +94,13 @@ graph TD
     B --> K[scenario-based]
     B --> L[leet-code-codebase]
 
+---
+
+    📍 24/12/2025 (Wednesday)
+📘 Started Object-Oriented Programming (OOPs) concepts in Core Java. Practiced Classes & Objects and completed documentation and problems on Constructors, Instance vs Class Variables, and Access Modifiers.
+
+🔗 class and objects practice: [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class-and-objects)
+
+🔗 constructors problems: [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops/oops/gcr-codebase/constructors)
+
+---
