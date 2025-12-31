@@ -1,10 +1,8 @@
 public class Book {
-
     // Attributes (Instance Variables)
     String title;
     String author;
     double price;
-
     // Default Constructor
     Book() {
         title = "Unknown Title";

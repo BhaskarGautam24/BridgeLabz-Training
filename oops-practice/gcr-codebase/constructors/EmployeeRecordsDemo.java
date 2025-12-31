@@ -9,10 +9,8 @@ public class EmployeeRecordsDemo {
 
         // creating manager object
         Manager manager = new Manager(employeeID, department, salary);
-
         // showing manager info
         manager.showManagerDetails();
-
         // updating salary
         double newSalary = scn.nextDouble();
         manager.setSalary(newSalary);

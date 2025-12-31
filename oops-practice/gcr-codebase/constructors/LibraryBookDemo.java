@@ -7,13 +7,10 @@ public class LibraryBookDemo {
         String title = scn.nextLine();
         String author = scn.nextLine();
         double price = scn.nextDouble();
-
         // creating book object
         Book book = new Book(title, author, price, true);
-
         // trying to borrow book
         book.borrowBook();
-
         // trying again to check logic
         book.borrowBook();
     }

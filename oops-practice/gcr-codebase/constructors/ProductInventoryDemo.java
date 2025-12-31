@@ -9,14 +9,12 @@ public class ProductInventoryDemo {
 
         // creating first product
         Product p1 = new Product(name1, price1);
-
         // taking second product details
         String name2 = scn.nextLine();
         double price2 = scn.nextDouble();
 
         // creating second product
         Product p2 = new Product(name2, price2);
-
         // displaying product details
         p1.displayProductDetails();
         p2.displayProductDetails();

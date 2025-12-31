@@ -8,16 +8,12 @@ public class HotelBookingDemo {
         String guestName = scn.nextLine();
         String roomType = scn.nextLine();
         int nights = scn.nextInt();
-
         // using parameterized constructor
         HotelBooking booking1 = new HotelBooking(guestName, roomType, nights);
-
         // using default constructor
         HotelBooking booking2 = new HotelBooking();
-
         // using copy constructor
         HotelBooking booking3 = new HotelBooking(booking1);
-
         // showing outputs
         booking1.showBooking();
         booking2.showBooking();

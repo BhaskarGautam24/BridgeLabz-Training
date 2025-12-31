@@ -13,11 +13,11 @@ public class Circle {
         Circle c1 = new Circle();                               
         System.out.println("Circle 1:");
         c1.displayRadius();
-
         // Using Parameterized Constructor
         Circle c2 = new Circle(5.5);
         System.out.println("\nCircle 2:");
         c2.displayRadius();
+
     }
 }
 

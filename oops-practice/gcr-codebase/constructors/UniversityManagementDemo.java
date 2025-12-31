@@ -6,17 +6,13 @@ public class UniversityManagementDemo {
         scn.nextLine();
         String name = scn.nextLine();
         double cgpa = scn.nextDouble();
-
         // creating postgraduate student object
         PostgraduateStudent pgStudent = new PostgraduateStudent(rollNumber, name, cgpa);
-
         // displaying student details
         pgStudent.showStudentInfo();
-
         // updating cgpa using setter
         double newCgpa = scn.nextDouble();
         pgStudent.setCgpa(newCgpa);
-
         // showing updated cgpa
         System.out.println("updated cgpa: " + pgStudent.getCgpa());
     }
