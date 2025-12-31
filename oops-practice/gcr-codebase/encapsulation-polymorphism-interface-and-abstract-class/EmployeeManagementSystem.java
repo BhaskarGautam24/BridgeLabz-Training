@@ -1,8 +1,7 @@
 import java.util.*;
 public class EmployeeManagementSystem {
     public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in);
-    
+        Scanner scn = new Scanner(System.in);  
         int id;
         String name;
         double baseSalary;
@@ -12,7 +11,6 @@ public class EmployeeManagementSystem {
         System.out.println("enter full-time employee id:");
         id = scn.nextInt();
         scn.nextLine();
-
         System.out.println("enter full-time employee name:");
         name = scn.nextLine();
 

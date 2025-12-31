@@ -3,14 +3,11 @@ import java.util.*;
 public class VehicleRentalSystem {
 
     public static void main(String[] args) {
-
         Scanner scn = new Scanner(System.in);
-
         // variables
         String num, policy;
         double rate;
         int days;
-
         // car input
         System.out.println("enter car number:");
         num = scn.nextLine();

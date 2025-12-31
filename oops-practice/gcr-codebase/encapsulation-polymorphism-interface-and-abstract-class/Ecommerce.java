@@ -1,5 +1,4 @@
 import java.util.*;
-
 // taxable interface
 interface Taxable {
     double calculateTax();
@@ -10,7 +9,6 @@ abstract class Product {
 
     private int productId;
     private String name;
-
 
     private double price;
 

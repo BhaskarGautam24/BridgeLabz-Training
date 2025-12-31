@@ -1,18 +1,14 @@
 import java.util.*;
-
 // abstract bank account
 abstract class BankAccount {
-
     private String accountNumber;
     private String holderName;
     protected double balance;
-
     BankAccount(String accNo, String name, double balance) {
         this.accountNumber = accNo;
         this.holderName = name;
         this.balance = balance;
     }
-
     void deposit(double amount) {
         balance += amount;
     }
