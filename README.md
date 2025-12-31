@@ -6,7 +6,7 @@ All work is organized **chronologically(day-wise)** to clearly reflect progress,
 
 ---
 
-## 🌿 Active Branch: `oops`
+## 🌿 Active Branch: `dsa-practice`
 
 All current implementations, practice problems, and submissions are maintained in this branch.
 
