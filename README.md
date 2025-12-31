@@ -110,6 +110,7 @@ Practiced Classes & Objects and completed documentation and problems on Construc
 ### 📍 26/12/2025 (Friday)
 
 📘 Completed and submitted Core Java keywords (this, static, final, instanceof) and studied Object-Oriented Design Principles (OODP) with practical understanding.
+
 📝 All assigned tasks successfully completed.
 
 🔗 **this, static, final key words and instanceof operator practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-finalkeywords-and-instanceofoperator)
@@ -176,6 +177,7 @@ graph TD
 ### 📍 31/12/2025 (Wednesday)
 
 📘 Completed documentation and hands-on practice on Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, and InputStreamReader.
+
 📝 Enhanced efficiency in searching algorithms and effective handling of strings and input/output operations.
 
 
