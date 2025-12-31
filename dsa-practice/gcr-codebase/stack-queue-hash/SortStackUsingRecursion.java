@@ -6,10 +6,13 @@ class SortStackUsingRecursion {
         if (stack.isEmpty()) {
             return;
         }
+
         // Step 1: Remove top element
         int topElement = stack.pop();
+
         // Step 2: Sort remaining stack
         sortStack(stack);
+        
         // Step 3: Insert element at correct position
         insertSorted(stack, topElement);
     }

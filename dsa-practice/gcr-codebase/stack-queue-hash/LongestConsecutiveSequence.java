@@ -22,7 +22,6 @@ class ConsecutiveSequence extends SequenceBase implements SequenceCheck {
         // calling main logic
         return getLength(arr);
     }
-
     // overriding interface method
     @Override
     public int getLength(int[] arr) {

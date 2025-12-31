@@ -12,6 +12,7 @@ class QueueUsingStacks {
         stackEnqueue.push(value);
         System.out.println(value + " enqueued");
     }
+    
     // Dequeue operation
     public int dequeue() {
         // If both stacks are empty

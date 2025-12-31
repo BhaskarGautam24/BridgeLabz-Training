@@ -17,6 +17,7 @@ public class PairWithGivenSum {
             map.put(current, i);
         }
         return false;
+        
     }
     public static void main(String[] args) {
         int[] arr = {8, 7, 2, 5, 3, 1};

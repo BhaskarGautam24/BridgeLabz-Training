@@ -10,10 +10,12 @@ class StockSpanProblem {
         stack.push(0);
         // Calculate span for remaining days
         for (int i = 1; i < n; i++) {
+            
             // Remove indices with smaller or equal prices
             while (!stack.isEmpty() && prices[stack.peek()] <= prices[i]) {
                 stack.pop();
             }
+
             // If stack empty, span is i + 1
             if (stack.isEmpty()) {
                 span[i] = i + 1;
