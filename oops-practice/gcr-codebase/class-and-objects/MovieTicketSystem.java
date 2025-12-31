@@ -1,5 +1,4 @@
 class MovieTicket {
-
     String movieName;
     String seatNumber;
     double price;
@@ -18,7 +17,6 @@ class MovieTicket {
             System.out.println("Seat Number: " + seatNumber);
         }
     }
-
     void displayTicket() {                                                    // Display ticket details
         if (!booked) {                                     
             System.out.println("Ticket have not booked yet....");
@@ -30,7 +28,6 @@ class MovieTicket {
         }
     }
 }
-
 public class MovieTicketSystem {
     public static void main(String[] args) {
 

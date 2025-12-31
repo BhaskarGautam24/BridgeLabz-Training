@@ -1,5 +1,4 @@
 public class HandBook {
-
 	// Instance variables to store book information
 	String bookTitle;
 	String bookAuthor;
@@ -18,8 +17,7 @@ public class HandBook {
 	public static void main(String[] args) {
 		
 		// Creating first HandBook object using constructor
-		HandBook book1 = new HandBook("2States", "Chetan Bhagat", 500);
-		
+		HandBook book1 = new HandBook("2States", "Chetan Bhagat", 500);		
 		// Creating second HandBook object using constructor
 		HandBook book2 = new HandBook("Wings Of Fire", "Abdul kalam.A.P.J", 500);
 		book1.displayBookDetails();

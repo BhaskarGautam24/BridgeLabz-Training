@@ -11,7 +11,6 @@ class Student {
         this.mark2 = mark2;
         this.mark3 = mark3;
     }
-
     String calculateGrade() {                    // Calculate average and determine grade
         double avg = (mark1 + mark2 + mark3) / 3;
 
@@ -22,7 +21,6 @@ class Student {
         else
             return "C";
     }
-
     void displayReport() {                         // Display student report
         System.out.println("Student Name: " + name);
         System.out.println("Student RollNumber: " + rollNumber);
@@ -34,7 +32,6 @@ class Student {
         System.out.println();
     }
 }
-
 public class StudentReport {
     public static void main(String[] args) {
 
