@@ -5,12 +5,10 @@ Sample Problem 2: Grocery Store Bill Generation Application
 -----------------------------------------------------
 1. Class Diagram
 -----------------------------------------------------
-
 description:
 this system is used to generate grocery bill for customer.
 customer buys many products and bill is generated.
 products belong to order strongly.
-
 classes used:
 - Customer
 - Product

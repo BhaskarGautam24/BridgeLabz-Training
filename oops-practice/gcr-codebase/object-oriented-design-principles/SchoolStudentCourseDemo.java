@@ -16,10 +16,8 @@ public class SchoolStudentCourseDemo {
 
         // creating student object
         Student student = new Student(studentName);
-
         // adding student to school
         school.addStudent(student);
-
         
         System.out.print("enter first course name: ");
         String courseOneName = scn.nextLine();

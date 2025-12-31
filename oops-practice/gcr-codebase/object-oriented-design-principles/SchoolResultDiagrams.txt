@@ -24,8 +24,6 @@ aggregation is used because subject can exist without
 student also.
 
 class diagram ::
-
-
         +------------------+
         |     Student      |
         +------------------+

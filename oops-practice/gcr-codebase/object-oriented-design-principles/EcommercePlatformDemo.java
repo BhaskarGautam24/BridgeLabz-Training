@@ -4,11 +4,9 @@ public class EcommercePlatformDemo {
         Scanner scn = new Scanner(System.in);
         System.out.print("enter customer name: ");
         String customerName = scn.nextLine();
-
         // creating customer object
         Customer customer = new Customer(customerName);
         Order order = new Order();
-
         System.out.print("enter first product name: ");
         String productOneName = scn.nextLine();
 

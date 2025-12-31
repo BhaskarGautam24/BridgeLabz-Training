@@ -19,7 +19,7 @@ public class LibraryAggregationDemo {
         firstLibrary.addBook(bookOne);
         firstLibrary.addBook(bookTwo);
 
-        // adding books to second library
+      // adding books to second library
         secondLibrary.addBook(bookTwo);
         secondLibrary.addBook(bookThree);
 

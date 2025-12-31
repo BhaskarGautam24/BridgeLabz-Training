@@ -2,11 +2,9 @@ import java.util.*;
 public class BankAssociationDemo {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
-
         // asking bank name
         System.out.print("enter bank name: ");
         String bankName = scn.nextLine();
-
         // creating bank object
         Bank bank = new Bank(bankName);
 

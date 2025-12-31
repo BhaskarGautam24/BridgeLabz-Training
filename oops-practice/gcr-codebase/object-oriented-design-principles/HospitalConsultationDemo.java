@@ -11,11 +11,9 @@ public class HospitalConsultationDemo {
         String doctorName = scn.nextLine();
         System.out.print("enter patient name: ");
         String patientName = scn.nextLine();
-
         // creating doctor and patient objects
         Doctor doctor = new Doctor(doctorName);
         Patient patient = new Patient(patientName);
-
         // adding doctor and patient to hospital
         hospital.addDoctor(doctor);
         hospital.addPatient(patient);
