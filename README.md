@@ -130,6 +130,24 @@ Practiced Classes & Objects and completed documentation and problems on Construc
 
 ---
 
+graph TD
+    A["BridgeLabz-Training
+(oops-practice branch)"] --> B[oops-practice]
+
+    B --> C[gcr-codebase]
+
+    C --> D[class-and-objects]
+    C --> E[constructors]
+    C --> F[encapsulation-polymorphism-interface-and-abstract-class]
+    C --> G[inheritance]
+    C --> H[object-oriented-design-principles]
+    C --> I[this-static-finalkeywords-and-instanceofoperator]
+
+    B --> J[scenario-based]
+    B --> K[leet-code-codebase]
+
+---
+
 ### 📍 29/12/2025 (Monday)
 
 📘 Completed Linked List and Stack, Queue, HashMap, including Hash Function concepts, with hands-on problem practice.
