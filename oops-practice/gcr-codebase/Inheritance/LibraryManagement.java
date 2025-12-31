@@ -8,11 +8,9 @@ public class LibraryManagement {
         int publicationYear;
 
         String authorName;
-
         String authorBio;
         System.out.println("enter book title:");
         title = scn.nextLine();
-
         System.out.println("enter publication year:");
         publicationYear = scn.nextInt();
         scn.nextLine();

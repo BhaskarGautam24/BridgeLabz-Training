@@ -10,17 +10,13 @@ public class RestaurantManagement {
         // taking chef details
         System.out.println("enter chef name:");
         name = scn.nextLine();
-
         System.out.println("enter chef id:");
         id = scn.nextInt();
         scn.nextLine();
-
         // parent reference holding child object
         Person p1 = new Chef(name, id);
-
         // performing duties
         ((Worker)p1).performDuties();
-
         // taking waiter details
         System.out.println("enter waiter name:");
         name = scn.nextLine();

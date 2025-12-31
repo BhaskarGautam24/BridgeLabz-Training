@@ -7,17 +7,13 @@ public class SchoolSystem {
 
         // teacher specific
         String subject;
-
         // student specific
         String grade;
-
         // staff specific
         String department;
-
         // taking teacher details
         System.out.println("enter teacher name:");
         name = sc.nextLine();
-
         System.out.println("enter teacher age:");
         age = sc.nextInt();
         sc.nextLine();

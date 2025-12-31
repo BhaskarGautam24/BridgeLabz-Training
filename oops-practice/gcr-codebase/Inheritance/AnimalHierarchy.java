@@ -1,20 +1,16 @@
 import java.util.*;
-
 // main class to run animal program
 public class AnimalHierarchy {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String name;
-
         // variable for age
         int age;
         System.out.println("enter dog name:");
         name = sc.nextLine();
-
         System.out.println("enter dog age:");
         age = sc.nextInt();
         sc.nextLine();
-
         // parent reference for dog
         Animal animal1 = new Dog(name, age);
 

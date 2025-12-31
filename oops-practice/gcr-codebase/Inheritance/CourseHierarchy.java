@@ -8,10 +8,8 @@ public class CourseHierarchy {
         boolean recorded;
         double fee;
         double discount;
-
         System.out.println("enter course name:");
         name = sc.nextLine();
-
         System.out.println("enter duration:");
         duration = sc.nextInt();
         sc.nextLine();
