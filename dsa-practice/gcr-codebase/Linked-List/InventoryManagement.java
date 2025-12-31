@@ -1,12 +1,9 @@
 class ItemNode {
-
     int id;
     String name;
     int quantity;
     double price;
-
     ItemNode next;
-
     ItemNode(int id, String name, int quantity, double price) {
         this.id = id;
         this.name = name;
@@ -15,6 +12,7 @@ class ItemNode {
         this.next = null;
     }
 }
+
 // Linked List class
 class InventoryList {
 

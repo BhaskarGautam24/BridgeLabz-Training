@@ -12,6 +12,7 @@ class UserNode {
         this.next = null;
     }
 }
+
 // Linked List class
 class SocialMedia {
     UserNode head;
@@ -102,7 +103,6 @@ class SocialMedia {
     void searchUser(String key) {
 
         UserNode temp = head;
-
         while (temp != null) {
             if (temp.name.equals(key) || String.valueOf(temp.userId).equals(key)) {
                 System.out.println(temp.name + " Age: " + temp.age);
@@ -110,7 +110,6 @@ class SocialMedia {
             }
             temp = temp.next;
         }
-
         System.out.println("User not found");
     }
     // Count friends

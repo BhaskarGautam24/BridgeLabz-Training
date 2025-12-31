@@ -16,6 +16,7 @@ class BookNode {
         this.available = available;
     }
 }
+
 // Doubly Linked List class
 class Library {
 
@@ -35,9 +36,7 @@ class Library {
     }
     // Remove book by ID
     void removeBook(int id) {
-
         BookNode temp = head;
-
         while (temp != null) {
             if (temp.bookId == id) {
 

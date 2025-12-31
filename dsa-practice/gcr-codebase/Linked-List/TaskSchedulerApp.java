@@ -47,7 +47,6 @@ class TaskScheduler {
 
         TaskNode temp = head;
         TaskNode prev = null;
-
         do {
             if (temp.taskId == id) {
 
@@ -67,6 +66,7 @@ class TaskScheduler {
 
         } while (temp != head);
     }
+    
     // View current task and move next
     void viewNextTask() {
 

@@ -15,6 +15,7 @@ class StudentNode {
         this.next = null;
     }
 }
+
 // Linked List class
 class StudentList {
 
@@ -99,7 +100,6 @@ public class StudentRecord {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         StudentList list = new StudentList();
-
         list.addStudent(1, "Rahul", 20, 'A');
         list.addStudent(2, "Ankit", 21, 'B');
         list.displayStudents();

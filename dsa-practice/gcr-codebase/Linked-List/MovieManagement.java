@@ -4,10 +4,8 @@ class MovieNode {
     String director;
     int year;
     double rating;
-
     MovieNode next;
     MovieNode prev;
-
     MovieNode(String title, String director, int year, double rating) {
         this.title = title;
         this.director = director;
@@ -17,6 +15,7 @@ class MovieNode {
         this.prev = null;
     }
 }
+
 // Doubly Linked List class
 class MovieList {
     MovieNode head;
