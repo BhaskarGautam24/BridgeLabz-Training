@@ -7,6 +7,7 @@ public class BankAccount{
     private String accountHolderName;
     private final String accountNumber;
     private double balance;
+
     // Constructor
     BankAccount(String accountHolderName, String accountNumber, double balance){
         this.accountHolderName = accountHolderName;
@@ -15,6 +16,7 @@ public class BankAccount{
         totalAccounts++;
     }
     static void getTotalAccounts(){
+        
         System.out.println("Total number of accounts: " + totalAccounts);           
     }
     public void displayAccountDetails(){

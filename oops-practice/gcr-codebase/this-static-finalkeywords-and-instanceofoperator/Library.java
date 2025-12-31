@@ -13,10 +13,12 @@ class Book {
    public static void setLibraryName(String name) {
        libraryName = name;
    }
+   
    // Static method to display the library name
    public static void displayLibraryName() {
        System.out.println("Library Name: " + libraryName);
    }
+
    // Method to display book details
    public void displayBookDetails() {
        // Using 'instanceof' to verify the object's type before displaying details

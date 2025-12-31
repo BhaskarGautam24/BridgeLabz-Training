@@ -10,10 +10,12 @@ public class Company {
        this.designation = designation;
        totalEmployees++;
    }
+
    // Static method to set the company name
    public static void setCompanyName(String name) {
        companyName = name;
    }
+   
    // Static method to display the total number of employees
    public static void displayTotalEmployees() {
        System.out.println("Total Employees: " + totalEmployees);
