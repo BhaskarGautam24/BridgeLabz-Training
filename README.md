@@ -75,7 +75,7 @@ Practiced modular programming, method reuse, and string manipulation concepts.
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ core-java-practice(Branch Structure)
 
 ```mermaid
 graph TD
@@ -130,6 +130,9 @@ Practiced Classes & Objects and completed documentation and problems on Construc
 
 ---
 
+## 🗂️ oops-practice(Branch Structure)
+
+```mermaid
 graph TD
     A["BridgeLabz-Training
 (oops-practice branch)"] --> B[oops-practice]
@@ -145,7 +148,7 @@ graph TD
 
     B --> J[scenario-based]
     B --> K[leet-code-codebase]
-
+```
 ---
 
 ### 📍 29/12/2025 (Monday)
