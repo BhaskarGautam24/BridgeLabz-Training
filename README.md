@@ -106,3 +106,14 @@ Practiced Classes & Objects and completed documentation and problems on Construc
 🔗 **constructors problems:**  [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops/oops/gcr-codebase/constructors)
 
 ---
+
+### 📍 26/12/2025 (Friday)
+
+📘 Completed and submitted Core Java keywords (this, static, final, instanceof) and studied Object-Oriented Design Principles (OODP) with practical understanding.
+📝 All assigned tasks successfully completed.
+
+🔗 **this, static, final key words and instanceof operator practice:** 
+
+
+
+
