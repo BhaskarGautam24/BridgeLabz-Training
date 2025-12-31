@@ -112,7 +112,48 @@ Practiced Classes & Objects and completed documentation and problems on Construc
 📘 Completed and submitted Core Java keywords (this, static, final, instanceof) and studied Object-Oriented Design Principles (OODP) with practical understanding.
 📝 All assigned tasks successfully completed.
 
-🔗 **this, static, final key words and instanceof operator practice:** 
+🔗 **this, static, final key words and instanceof operator practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-finalkeywords-and-instanceofoperator)
+
+🔗 **object oriented design principles practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles)
+
+---
+
+### 📍 27/12/2025 (Saturday)
+
+📘 Studied Inheritance, Encapsulation, Interfaces, Abstract Classes, and Polymorphism in Core Java and practiced related problem statements.
+📝 Conceptual understanding strengthened through hands-on problems.
+
+🔗 **Inheritance practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Inheritance)
+
+🔗 **Encapsulation, Interfaces, Abstract Classes, and Polymorphism pratice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface-and-abstract-class)
+
+---
+
+### 📍 29/12/2025 (Monday)
+
+📘 Completed Linked List and Stack, Queue, HashMap, including Hash Function concepts, with hands-on problem practice.
+📝 Improved problem-solving skills and understanding of real-world data handling using core data structures.
+
+🔗 **Linked-List practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Linked-List)
+
+🔗 **Stack, queue and hashmap practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hash)
+
+---
+
+### 📍 30/12/2025 (Tuesday)
+
+📘 Studied sorting techniques and solved related practice problems, along with completing a scenario-based implementation using OOP principles.
+
+🔗 **sorting practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+
+🔗 **oops scenario-based practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+---
+
+### 📍 31/12/2025 (Wednesday)
+
+📘 Completed documentation and hands-on practice on Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, and InputStreamReader.
+📝 Enhanced efficiency in searching algorithms and effective handling of strings and input/output operations.
 
 
 
