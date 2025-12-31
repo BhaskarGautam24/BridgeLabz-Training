@@ -24,11 +24,9 @@ class EmployeeWage {
         // looping till limits
         while (totalDays < MAX_DAYS && totalHours < MAX_HOURS) {
             totalDays++;
-
             // getting type
             int empType = checkAttendance();
             int hours = 0;
-
           switch(empType){
             case PART_TIME: 
             hours = PART_HOUR;
