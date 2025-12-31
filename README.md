@@ -121,6 +121,7 @@ Practiced Classes & Objects and completed documentation and problems on Construc
 ### 📍 27/12/2025 (Saturday)
 
 📘 Studied Inheritance, Encapsulation, Interfaces, Abstract Classes, and Polymorphism in Core Java and practiced related problem statements.
+
 📝 Conceptual understanding strengthened through hands-on problems.
 
 🔗 **Inheritance practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Inheritance)
@@ -132,6 +133,7 @@ Practiced Classes & Objects and completed documentation and problems on Construc
 ### 📍 29/12/2025 (Monday)
 
 📘 Completed Linked List and Stack, Queue, HashMap, including Hash Function concepts, with hands-on problem practice.
+
 📝 Improved problem-solving skills and understanding of real-world data handling using core data structures.
 
 🔗 **Linked-List practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Linked-List)
