@@ -20,7 +20,6 @@ abstract class AgeSorter {
         System.out.println();
     }
 }
-
 // child class for counting sort
 class CountingSortAges extends AgeSorter {
     // fixed age limits

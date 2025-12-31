@@ -21,7 +21,6 @@ abstract class BookSorter {
         System.out.println();
     }
 }
-
 // child class for merge sort
 class MergeSortBooks extends BookSorter {
     MergeSortBooks(int[] prices) {

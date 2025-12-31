@@ -15,7 +15,6 @@ class InsertionSortEmployee {
         for (int i = 0; i < n; i++) {
             empIds[i] = scn.nextInt();
         }
-
         // Insertion Sort logic
         for (int i = 1; i < n; i++) {
 

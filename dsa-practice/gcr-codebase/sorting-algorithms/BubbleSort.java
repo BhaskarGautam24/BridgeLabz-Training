@@ -2,10 +2,8 @@ import java.util.*;
 class BubbleSortStudentMarks {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
-
         System.out.print("Enter number of students: ");
         int n = scn.nextInt();
-
         int[] marks = new int[n];
 
         System.out.println("Enter student marks:");

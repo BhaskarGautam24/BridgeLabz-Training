@@ -13,7 +13,6 @@ abstract class ProductSorter {
     }
     // abstract sort method
     abstract void sort(int low, int high);
-
     // method to print prices
     void printPrices() {
         // loop to print values

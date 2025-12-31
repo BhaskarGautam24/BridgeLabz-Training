@@ -8,7 +8,6 @@ abstract class SalarySorter {
     SalarySorter(int[] salaries) {
         this.salaries = salaries;
     }
-
     // getter method
     public int[] getSalaries() {
         return salaries;

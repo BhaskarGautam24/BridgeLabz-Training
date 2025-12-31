@@ -14,7 +14,6 @@ abstract class ExamSorter {
     public int[] getScores() {
         return scores;
     }
-
     // abstract sort method
     abstract void sort();
 
