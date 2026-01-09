@@ -187,7 +187,6 @@ Implemented Java Generics Questions in collections-practice branch
 ---
 
 Java Generics
-🗓️ Week 4
 ### 📌 05/01/26
 Had my Review Session and completed review codes and pushed them in Review branch.
 
