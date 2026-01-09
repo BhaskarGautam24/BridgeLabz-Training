@@ -6,7 +6,7 @@ All work is organized **chronologically(day-wise)** to clearly reflect progress,
 
 ---
 
-## 🌿 Active Branch: `dsa-practice`
+## 🌿 Active Branch: `collections-practice`
 
 All current implementations, practice problems, and submissions are maintained in this branch.
 
