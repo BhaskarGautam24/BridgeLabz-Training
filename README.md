@@ -180,6 +180,45 @@ graph TD
 
 📝 Enhanced efficiency in searching algorithms and effective handling of strings and input/output operations.
 
+###📌 02/01/26
+Implemented Java Generics Questions in collections-practice branch
+
+Java Generics
+🗓️ Week 4
+### 📌 05/01/26
+Had my Review Session and completed review codes and pushed them in Review branch.
+
+E-commerce Application
+Character Frequency
+Custom Exception
+Encapsulation
+### 📌 06/01/26
+Implemented Collections Questions such as linked,set,queue,map and pushed them into collections-practice branch
+
+collections
+### 📌 07/01/26
+Implemented Java Streams Question with File Input, File Output,Image Reader, copy, paste,etc method
+
+streams
+### 📌 08/01/26
+Implemented Java Exceptions with diffrent types like checked and unchecked exceptions and pushed them in collection-practice branch
+
+   
+📝 Notes
+Use the branch selector on GitHub to switch between core-java-practice, oops, and dsa.
+Each topic folder contains Java source files with clear logic and inline comments.
+Code is organized date-wise to reflect daily progress during BridgeLabz training.
+🔄 Next Updates
+Continue advanced OOP concepts
+
+Expand DSA implementations
+
+Keep README updated with daily progress
+
+Add more scenario-based and logic-driven programs.
+
+Keep updating this README with direct links and daily summaries.
+
 
 
 
