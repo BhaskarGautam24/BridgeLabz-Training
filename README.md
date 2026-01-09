@@ -202,13 +202,11 @@ Implemented Collections Questions such as linked,set,queue,map and pushed them i
 
 ---
 
-collections
 ### 📌 07/01/26
 Implemented Java Streams Question with File Input, File Output,Image Reader, copy, paste,etc method
 
 ---
 
-streams
 ### 📌 08/01/26
 Implemented Java Exceptions with diffrent types like checked and unchecked exceptions and pushed them in collection-practice branch
 
