@@ -180,8 +180,11 @@ graph TD
 
 📝 Enhanced efficiency in searching algorithms and effective handling of strings and input/output operations.
 
-###📌 02/01/26
+---
+### 📌 02/01/26
 Implemented Java Generics Questions in collections-practice branch
+
+---
 
 Java Generics
 🗓️ Week 4
@@ -192,12 +195,19 @@ E-commerce Application
 Character Frequency
 Custom Exception
 Encapsulation
+
+---
+
 ### 📌 06/01/26
 Implemented Collections Questions such as linked,set,queue,map and pushed them into collections-practice branch
+
+---
 
 collections
 ### 📌 07/01/26
 Implemented Java Streams Question with File Input, File Output,Image Reader, copy, paste,etc method
+
+---
 
 streams
 ### 📌 08/01/26
