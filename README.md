@@ -186,7 +186,27 @@ graph TD
 
 📘 Studied Runtime Analysis and Big-O Notation, covering time and space complexity concepts, best-case, average-case, and worst-case analysis with practical examples.
 
-🔗 **Runtime Analysis and Big-O Notation practice:** [click-here]()
+🔗 **Runtime Analysis and Big-O Notation practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtimeanalysis-and-big-o-notation)
+
+---
+
+## 🗂️ dsa-practice(Branch Structure)
+
+```mermaid
+graph TD
+    A["BridgeLabz-Training
+(dsa-practice branch)"] --> B[dsa-practice]
+
+    B --> C[gcr-codebase]
+
+    C --> D[linear-and-binary-search]
+    C --> E[linked-list]
+    C --> F[runtimeanalysis-and-big-o-notation]
+    C --> G[sorting-algorithms]
+    C --> H[stack-queue-hash]
+
+    B --> I[README.md]
+```
 
 ---
 
@@ -196,7 +216,7 @@ graph TD
 
 📝 Improved understanding of type safety, code reusability, and how generics help in writing flexible and maintainable code.
 
-🔗 **Generics Practice:** [click-here]()
+🔗 **Generics Practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 
 ---
 
@@ -209,7 +229,7 @@ StudentCourseRegistration
 SwapTwoNumbers
 exceptionalhandlingdividebyzero
 
-🔗 **Review Problems:** [click-here]()
+🔗 **Review Problems:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/reviews/reviews)
 
 ---
 
@@ -217,7 +237,7 @@ exceptionalhandlingdividebyzero
 
 📘 Studied the Java Collection Framework, covering core interfaces and classes such as List, Set, Map, and their commonly used implementations, along with solving related practice questions.
 
-🔗 **Collections Practice:** [click-here]()
+🔗 **Collections Practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
 
 ---
 
@@ -225,7 +245,7 @@ exceptionalhandlingdividebyzero
 
 📘 Implemented Java Streams Question with File Input, File Output,Image Reader, copy, paste,etc method.
 
-🔗 **Streams Practice:** [click-here]()
+🔗 **Streams Practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
 
 ---
 
@@ -243,7 +263,7 @@ exceptionalhandlingdividebyzero
 
 📝 Improved practical skills in identifying error-prone code and handling exceptions gracefully during program execution.
 
-🔗 **Exceptional Handling Practice:** [click-here]()
+🔗 **Exceptional Handling Practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling)
 
 ---
 
@@ -265,7 +285,9 @@ exceptionalhandlingdividebyzero
 
 📝 Enhanced practical skills by combining pattern matching with automated testing to ensure correctness and code quality.
 
-🔗 **Regex and Junit Practice:** [click-here]()
+🔗 **Regex practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+
+🔗 **Junit practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)
 
 ---
 
@@ -283,26 +305,11 @@ exceptionalhandlingdividebyzero
 
 📝 Improved practical skills in marking classes/methods with annotations and accessing metadata dynamically.
 
-🔗 **Annotations and Reflection Practice:** [click-here]()
+🔗 **Annotations Practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations)
 
+🔗 **Reflection Practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Keep updating this README with direct links and daily summaries.
+---
 
 
 
