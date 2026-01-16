@@ -181,48 +181,126 @@ graph TD
 📝 Enhanced efficiency in searching algorithms and effective handling of strings and input/output operations.
 
 ---
-### 📌 02/01/26
-Implemented Java Generics Questions in collections-practice branch
+
+### 📍 01/01/2026 (Thursday)
+
+📘 Studied Runtime Analysis and Big-O Notation, covering time and space complexity concepts, best-case, average-case, and worst-case analysis with practical examples.
+
+🔗 **Runtime Analysis and Big-O Notation practice:** [click-here]()
 
 ---
 
-Java Generics
-### 📌 05/01/26
-Had my Review Session and completed review codes and pushed them in Review branch.
+### 📍 02/01/26 (Friday) and 03/01/26 (Saturday)
 
-E-commerce Application
-Character Frequency
-Custom Exception
-Encapsulation
+📘 Studied Java Generics, including generic classes, generic methods, type parameters, bounded types, and wildcards, along with hands-on practice problems.
 
----
+📝 Improved understanding of type safety, code reusability, and how generics help in writing flexible and maintainable code.
 
-### 📌 06/01/26
-Implemented Collections Questions such as linked,set,queue,map and pushed them into collections-practice branch
+🔗 **Generics Practice:** [click-here]()
 
 ---
 
-### 📌 07/01/26
-Implemented Java Streams Question with File Input, File Output,Image Reader, copy, paste,etc method
+### 📍 05/01/26 (Monday)
+
+📘 Had my Review Session and completed review codes and pushed them in Review branch.
+
+InterfaceVsAbstractDemo
+StudentCourseRegistration
+SwapTwoNumbers
+exceptionalhandlingdividebyzero
+
+🔗 **Review Problems:** [click-here]()
 
 ---
 
-### 📌 08/01/26
-Implemented Java Exceptions with diffrent types like checked and unchecked exceptions and pushed them in collection-practice branch
+### 📍 06/01/26 (Tuesday)
 
-   
-📝 Notes
-Use the branch selector on GitHub to switch between core-java-practice, oops, and dsa.
-Each topic folder contains Java source files with clear logic and inline comments.
-Code is organized date-wise to reflect daily progress during BridgeLabz training.
-🔄 Next Updates
-Continue advanced OOP concepts
+📘 Studied the Java Collection Framework, covering core interfaces and classes such as List, Set, Map, and their commonly used implementations, along with solving related practice questions.
 
-Expand DSA implementations
+🔗 **Collections Practice:** [click-here]()
 
-Keep README updated with daily progress
+---
 
-Add more scenario-based and logic-driven programs.
+### 📍 07/01/26 (Wednesday)
+
+📘 Implemented Java Streams Question with File Input, File Output,Image Reader, copy, paste,etc method.
+
+🔗 **Streams Practice:** [click-here]()
+
+---
+
+### 📍 08/01/26 (Thursday)
+
+📘 Studied Exception Handling in Java in detail, including types of exceptions, try-catch blocks, multiple catch, finally, throw, and throws keywords.
+
+📝 Gained a clear understanding of handling runtime errors effectively and writing robust, fault-tolerant programs.
+
+---
+
+### 📍 09/01/26 (Friday)
+
+📘 Implemented multiple exception handling programs, covering real-world scenarios such as custom exceptions, input validation, and resource handling.
+
+📝 Improved practical skills in identifying error-prone code and handling exceptions gracefully during program execution.
+
+🔗 **Exceptional Handling Practice:** [click-here]()
+
+---
+
+### 📍 10/01/26 (Saturday)
+
+📘 Studied about Regular Expressions (Regex) 
+
+---
+
+### 📍 11/01/26 (Sunday)
+
+📘 Studied about Junit
+
+---
+
+### 📍 12/01/26 (Monday)
+
+📘 Implemented practice problems on Regex and JUnit, focusing on input validation scenarios and writing unit tests to verify application logic.
+
+📝 Enhanced practical skills by combining pattern matching with automated testing to ensure correctness and code quality.
+
+🔗 **Regex and Junit Practice:** [click-here]()
+
+---
+
+### 📍 13/01/26 (Monday) and 14/04/26 (Tuesday)
+
+📘 Went through Java Annotations, including custom annotations and basic usage examples.
+
+📘 Studied Java Reflection, covering class inspection, accessing fields and methods at runtime.
+
+---
+
+### 📍 15/01/2026 (Thursday) and 16/01/2026 (Friday)
+
+📘 Implemented practice problems on Java Annotations, including creating custom annotations.
+
+📝 Improved practical skills in marking classes/methods with annotations and accessing metadata dynamically.
+
+🔗 **Annotations and Reflection Practice:** [click-here]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Keep updating this README with direct links and daily summaries.
 
