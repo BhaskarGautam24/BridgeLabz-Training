@@ -114,12 +114,10 @@ class Product<T extends Category> {
     public double getPrice() {
         return this.price;
     }
-
     // setter for price
     public void setPrice(double price) {
         this.price = price;
-    }
-
+    }   
     public String getDetails() {
         String info = productName + " | price: " + price + " | category: " + category.getCategoryName();
         return info;
