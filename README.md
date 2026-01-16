@@ -204,8 +204,6 @@ graph TD
     C --> F[runtimeanalysis-and-big-o-notation]
     C --> G[sorting-algorithms]
     C --> H[stack-queue-hash]
-
-    B --> I[README.md]
 ```
 
 ---
