@@ -6,7 +6,7 @@ All work is organized **chronologically(day-wise)** to clearly reflect progress,
 
 ---
 
-## 🌿 Active Branch: `collections-practice`
+## 🌿 Active Branch: `io-programming-practice`
 
 All current implementations, practice problems, and submissions are maintained in this branch.
 
