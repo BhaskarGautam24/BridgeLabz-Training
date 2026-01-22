@@ -309,6 +309,45 @@ exceptionalhandlingdividebyzero
 
 ---
 
+### 📍 19/01/2026 (Monday)
+
+📘 Solved scenario-based problems using **Data Structures and Algorithms (DSA)**.
+
+📘 Applied **Object-Oriented Programming (OOPs)** concepts to design and solve problems.
+
+📝 Focused on real-world scenarios and logical problem-solving.
+
+---
+
+### 📍 20/01/2026 (Tuesday)
+
+📘 Worked on **CSV Data handling** concepts.
+
+📘 Implemented reading, writing, and processing CSV data.
+
+🚀 Pushed the completed work to the **io-programming-practice** branch. 
+
+🔗 **CSV Data-Handling Practice** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-datahandling)
+
+---
+
+### 📍 21/01/2026 (Wednesday)
+
+🗂️ Worked on **JSON file handling** practice problems.
+
+📊 Implemented **scenario-based problems** using JSON.
+
+🔗 **JSON Practice** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json/src/main/java/json)
+
+---
+
+
+
+
+
+
+
+
 
 
 
