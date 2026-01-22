@@ -327,7 +327,7 @@ exceptionalhandlingdividebyzero
 
 🚀 Pushed the completed work to the **io-programming-practice** branch. 
 
-🔗 **CSV Data-Handling Practice** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-datahandling)
+🔗 **CSV Data-Handling Practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-datahandling)
 
 ---
 
@@ -337,7 +337,7 @@ exceptionalhandlingdividebyzero
 
 📊 Implemented **scenario-based problems** using JSON.
 
-🔗 **JSON Practice** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json/src/main/java/json)
+🔗 **JSON Practice:** [click-here](https://github.com/BhaskarGautam24/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json/src/main/java/json)
 
 ---
 
