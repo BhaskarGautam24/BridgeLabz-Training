@@ -11,12 +11,12 @@ public class CoffeeCounter {
       System.out.println("Enter the type of coffee you want (Espresso/Latte/Cappuccino): ");
       coffeeType = scn.next();
 
-      if(coffeeType.equalsIgnorecase("exit")){
+      if(coffeeType.equalsIgnoreCase("exit")){
         System.out.println("you have exited the coffee counter.");
         break;
 
       }
-      switch(coffeeType.tolowercase()){
+      switch(coffeeType.toLowerCase()){
         case "espresso":
           System.out.println("You have ordered " + quantityOfCoffee + " Espresso(s).");
           pricePerCup = 250.0;
