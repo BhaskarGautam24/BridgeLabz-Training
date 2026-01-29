@@ -12,7 +12,7 @@ interface SecurityUtils{
             }
             if (Character.isUpperCase(ch)){
                 hasUpper=true;
-            }
+            } 
         }
         return hasDigit && hasUpper;
     }
