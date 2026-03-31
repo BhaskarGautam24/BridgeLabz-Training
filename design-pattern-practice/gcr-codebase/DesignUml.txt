@@ -1,0 +1,86 @@
+Singleton Pattern – Library Catalog
+
+                           
++-------------------+
+|  LibraryCatalog   |  
++-------------------+
+| - instance        |
+| - books           |
+| - observers       |
++-------------------+
+| + getInstance()   |
+| + addBook()       |
+| + addObserver()   |
+| + removeObserver()|
++-------------------+
+
+Factory Pattern – User Creation
+
+
+              ┌───────────────┐
+              │     User      │
+              │  <<interface>>│
+              ├───────────────┤
+              │ + showRole()  │
+              │ + update()    │
+              └───────▲───────┘
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+┌────────────┐ ┌────────────┐ ┌────────────┐
+│  Student   │ │  Faculty   │ │ Librarian  │
+├────────────┤ ├────────────┤ ├────────────┤
+│ - name     │ │ - name     │ │ - name     │
+├────────────┤ ├────────────┤ ├────────────┤
+│ + showRole │ │ + showRole │ │ + showRole │
+│ + update   │ │ + update   │ │ + update   │
+└────────────┘ └────────────┘ └────────────┘
+
+
+Observer Pattern – Notification System
+
+
+┌──────────────────┐
+│    Observer      │
+│ <<interface>>    │
+├──────────────────┤
+│ + update(msg)    │
+└───────▲──────────┘
+        │
+        │ implements
+        │
+┌──────────────────┐
+│       User       │
+└──────────────────┘
+
+Builder Pattern – Book Creation
+
+
+┌─────────────────────────┐
+│          Book           │
+├─────────────────────────┤
+│ - title                 │
+│ - author                │
+│ - edition               │
+│ - genre                 │
+├─────────────────────────┤
+│ + getTitle()            │
+└──────────▲──────────────┘
+           │
+           │ built by
+           │
+┌─────────────────────────┐
+│      BookBuilder        │
+│     <<Builder>>         │
+├─────────────────────────┤
+│ - title                 │
+│ - author                │
+│ - edition               │
+│ - genre                 │
+├─────────────────────────┤
+│ + BookBuilder(title)    │
+│ + author()              │
+│ + edition()             │
+│ + genre()               │
+│ + build():Book          │
+└─────────────────────────┘
